@@ -1,0 +1,17 @@
+{
+  "name": "random-hex-id",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [
+    "hex",
+    "guid",
+    "id",
+    "random",
+    "hexadecimal",
+    "bytes",
+    "crypto"
+  ],
+  "author": "Teerapat Prommarak",
+  "license": "ISC"
+}
