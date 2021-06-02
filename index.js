@@ -1,4 +1,4 @@
-const genRandomId = () => {
+const randomHexId = () => {
   let id = '';
 
   for (let i = 0; i < 4; i++) {
@@ -10,4 +10,4 @@ const genRandomId = () => {
   return id.slice(0, -1);
 };
 
-module.exports = genRandomId;
+module.exports = randomHexId;
