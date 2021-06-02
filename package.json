@@ -13,5 +13,9 @@
     "crypto"
   ],
   "author": "Teerapat Prommarak",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/xeusteerapat/random-hex-id.git"
+  },
   "license": "ISC"
 }
